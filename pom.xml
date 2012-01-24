@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.notnoop.apns</groupId>
     <artifactId>apns</artifactId>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>0.2.0.M1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Java Apple Push Notification Service Library</name>
 
@@ -14,9 +14,9 @@
     </parent>
 
     <scm>
-        <connection>scm:git:git://github.com/notnoop/java-apns.git</connection>
-        <developerConnection>scm:git:git@github.com:notnoop/java-apns.git</developerConnection>
-        <url>http://github.com/notnoop/java-apns</url>
+        <connection>scm:git:git://github.com/yaourt/java-apns.git</connection>
+        <developerConnection>scm:git:git@github.com:yaourt/java-apns.git</developerConnection>
+        <url>http://github.com/yaourt/java-apns</url>
     </scm>
 
     <properties>
@@ -204,7 +204,7 @@
 
     <issueManagement>
         <system>Github</system>
-        <url>http://github.com/notnoop/java-apns/issues</url>
+        <url>http://github.com/yaourt/java-apns/issues</url>
     </issueManagement>
 
     <developers>
